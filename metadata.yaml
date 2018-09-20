@@ -1,5 +1,8 @@
 _repo: The-Lusitania-s-Last-Voyage-Being-a-narrative-of-the-torpedoing-and-sinking-of-the-R-M-S-Lusi__53251
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53251-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Lauriat, Charles Emelius, Jr.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47289'
     url: http://www.gutenberg.org/2009/agents/47289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53251#The-Lusitania-s-Last-Voyage-Being-a-narrative-of-the-torpedoing-and-sinking-of-the-R-M-S-Lusi_
 gutenberg_issued: '2016-10-10'
 gutenberg_type: Text
 identifiers:
