@@ -1,0 +1,26 @@
+_repo: The-Lusitania-s-Last-Voyage-Being-a-narrative-of-the-torpedoing-and-sinking-of-the-R-M-S-Lusi__53251
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lauriat, Charles Emelius, Jr.
+    birthdate: 1874
+    deathdate: 1937
+    gutenberg_agent_id: '47289'
+    url: http://www.gutenberg.org/2009/agents/47289
+description: ''
+gutenberg_issued: '2016-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53251'
+  lccn: '15025328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Lusitania (Steamship)'
+- GITenberg
+title: "The Lusitania's Last Voyage\r\nBeing a narrative of the torpedoing and sinking\
+  \ of the R. M. S. Lusitania by a German submarine off the Irish coast, May 7, 1915"
+url: http://www.gutenberg.org/ebooks/53251
